@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fredo\\Desktop\\c\u002B\u002B jUEGOS\\Ejercicio 10 Calcular tiempo total de juego\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7514F83-4DE3-49A6-B4FE-6A3B621D8097}|Ejercicio 10 Calcular tiempo total de juego\\Ejercicio 10 Calcular tiempo total de juego.vcxproj|C:\\Users\\Fredo\\Desktop\\c\u002B\u002B jUEGOS\\Ejercicio 10 Calcular tiempo total de juego\\Ejercicio 10 Calcular tiempo total de juego\\Ejercicio 10 Calcular tiempo total de juego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7514F83-4DE3-49A6-B4FE-6A3B621D8097}|Ejercicio 10 Calcular tiempo total de juego\\Ejercicio 10 Calcular tiempo total de juego.vcxproj|solutionrelative:Ejercicio 10 Calcular tiempo total de juego\\Ejercicio 10 Calcular tiempo total de juego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio 10 Calcular tiempo total de juego.cpp",
+              "DocumentMoniker": "C:\\Users\\Fredo\\Desktop\\c\u002B\u002B jUEGOS\\Ejercicio 10 Calcular tiempo total de juego\\Ejercicio 10 Calcular tiempo total de juego\\Ejercicio 10 Calcular tiempo total de juego.cpp",
+              "RelativeDocumentMoniker": "Ejercicio 10 Calcular tiempo total de juego\\Ejercicio 10 Calcular tiempo total de juego.cpp",
+              "ToolTip": "C:\\Users\\Fredo\\Desktop\\c\u002B\u002B jUEGOS\\Ejercicio 10 Calcular tiempo total de juego\\Ejercicio 10 Calcular tiempo total de juego\\Ejercicio 10 Calcular tiempo total de juego.cpp",
+              "RelativeToolTip": "Ejercicio 10 Calcular tiempo total de juego\\Ejercicio 10 Calcular tiempo total de juego.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-14T22:15:03.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

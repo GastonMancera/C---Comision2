@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fredo\\Desktop\\c\u002B\u002B jUEGOS\\Ejercicio 6 Sistema simple de compra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6295176F-1F62-433F-84B0-BBBC344EE6F1}|Ejercicio 6 Sistema simple de compra\\Ejercicio 6 Sistema simple de compra.vcxproj|C:\\Users\\Fredo\\Desktop\\c\u002B\u002B jUEGOS\\Ejercicio 6 Sistema simple de compra\\Ejercicio 6 Sistema simple de compra\\Ejercicio 6 Sistema simple de compra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6295176F-1F62-433F-84B0-BBBC344EE6F1}|Ejercicio 6 Sistema simple de compra\\Ejercicio 6 Sistema simple de compra.vcxproj|solutionrelative:Ejercicio 6 Sistema simple de compra\\Ejercicio 6 Sistema simple de compra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio 6 Sistema simple de compra.cpp",
+              "DocumentMoniker": "C:\\Users\\Fredo\\Desktop\\c\u002B\u002B jUEGOS\\Ejercicio 6 Sistema simple de compra\\Ejercicio 6 Sistema simple de compra\\Ejercicio 6 Sistema simple de compra.cpp",
+              "RelativeDocumentMoniker": "Ejercicio 6 Sistema simple de compra\\Ejercicio 6 Sistema simple de compra.cpp",
+              "ToolTip": "C:\\Users\\Fredo\\Desktop\\c\u002B\u002B jUEGOS\\Ejercicio 6 Sistema simple de compra\\Ejercicio 6 Sistema simple de compra\\Ejercicio 6 Sistema simple de compra.cpp",
+              "RelativeToolTip": "Ejercicio 6 Sistema simple de compra\\Ejercicio 6 Sistema simple de compra.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T06:29:03.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

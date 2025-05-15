@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fredo\\Desktop\\c\u002B\u002B jUEGOS\\Ejercicio 11 Simulaci\u00F3n de combate simple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4EFF0F-43A7-4BC1-80F2-02477BC7E489}|Ejercicio 11 Simulaci\u00F3n de combate simple\\Ejercicio 11 Simulaci\u00F3n de combate simple.vcxproj|C:\\Users\\Fredo\\Desktop\\c\u002B\u002B jUEGOS\\Ejercicio 11 Simulaci\u00F3n de combate simple\\Ejercicio 11 Simulaci\u00F3n de combate simple\\Ejercicio 11 Simulaci\u00F3n de combate simple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF4EFF0F-43A7-4BC1-80F2-02477BC7E489}|Ejercicio 11 Simulaci\u00F3n de combate simple\\Ejercicio 11 Simulaci\u00F3n de combate simple.vcxproj|solutionrelative:Ejercicio 11 Simulaci\u00F3n de combate simple\\Ejercicio 11 Simulaci\u00F3n de combate simple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio 11 Simulaci\u00F3n de combate simple.cpp",
+              "DocumentMoniker": "C:\\Users\\Fredo\\Desktop\\c\u002B\u002B jUEGOS\\Ejercicio 11 Simulaci\u00F3n de combate simple\\Ejercicio 11 Simulaci\u00F3n de combate simple\\Ejercicio 11 Simulaci\u00F3n de combate simple.cpp",
+              "RelativeDocumentMoniker": "Ejercicio 11 Simulaci\u00F3n de combate simple\\Ejercicio 11 Simulaci\u00F3n de combate simple.cpp",
+              "ToolTip": "C:\\Users\\Fredo\\Desktop\\c\u002B\u002B jUEGOS\\Ejercicio 11 Simulaci\u00F3n de combate simple\\Ejercicio 11 Simulaci\u00F3n de combate simple\\Ejercicio 11 Simulaci\u00F3n de combate simple.cpp",
+              "RelativeToolTip": "Ejercicio 11 Simulaci\u00F3n de combate simple\\Ejercicio 11 Simulaci\u00F3n de combate simple.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-14T22:22:29.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
